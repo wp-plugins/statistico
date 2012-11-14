@@ -1,0 +1,52 @@
+.visual-box{
+        float:left;
+        margin-top: 30px;
+        margin-left: 20px;
+        position: relative;
+    }
+    .ie-icon{
+        position: absolute;
+        width:70px;
+        height: 65px;
+        margin-top: 16%;
+        margin-left: 135px;
+        background-image:url("../images/ws_browser_icons.png");
+        background-position:70px;   
+    }
+    .firefox-icon{
+        position: absolute;
+        width:70px;
+        height: 65px;
+        margin-top: 16%;
+        margin-left: 135px;
+        background-image:url("../images/ws_browser_icons.png");
+        background-position:280px;    
+    }
+    .chrome-icon{
+        position: absolute;
+        width:70px;
+        height: 65px;
+        margin-top: 16%;
+        margin-left: 135px;
+        background-image:url("../images/ws_browser_icons.png");
+        background-position:355px; 
+    }
+    .safari-icon{
+        position: absolute;
+        width:70px;
+        height: 65px;
+        margin-top: 16%;
+        margin-left: 135px;
+        background-image:url("../images/ws_browser_icons.png");
+        background-position:150px; 
+    }
+    .opera-icon{
+        position: absolute;
+        width:70px;
+        height: 65px;
+        margin-top: 16%;
+        margin-left: 135px;
+        background-image:url("../images/ws_browser_icons.png");
+        background-position:217px; 
+    }
+
